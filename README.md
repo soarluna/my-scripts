@@ -1,1 +1,13 @@
-Password generator with constraitn of having the password be at least 6 characters long and using uppercase, lowercase, integers and special characters in order to create a password that is complex
+# Password Generator Script
+
+This repository contains a Python script for generating secure passwords with the following constraints:
+- At least 6 characters long.
+- Uses uppercase letters, lowercase letters, integers, and special characters.
+
+## Features
+- Customizable password length.
+- Ensures password complexity for better security.
+
+## How to Use
+1. Clone this repository:
+
